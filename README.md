@@ -19,16 +19,16 @@ Project consists of a simple Learn Python for Data Analysis, AI, and Financial m
 
 - <b>Windows 10</b> (21H2)
 
-<h2>Installing Python:</h2>
+<h2>Uploading a screeshot in github:</h2>
 
 <p align="center">
-Uploading screeshot of a project: <br/>
+Screeshot 1 : <br/>
 <img src="https://imgur.com/m3RXRE7.png" height="80%" width="80%" alt="Installing Python 3.13 Steps"/>
 <br />
   
-<h2>Installing Pycharm:</h2>
+<h2>Uploading a screeshot in github:</h2>
   
-Uploading screenshot of a project: <br/>
+screenshot 2: <br/>
 <img src="https://imgur.com/X4TrgX6.png" height="80%" width="80%" alt="Installing Pycharm Steps"/>
 
 </p>
